@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.КИИ_ВалидаторыОтветаИИ" id="33a01380-a62c-4c71-be78-18ba6d50528c" configVersion="23f041c9cfd0a72d04e7c1e18573e55c765e6642">
+			<Metadata name="Catalog.КИИ_ВалидаторыОтветаИИ.Attribute.Описание" id="8680e9b3-1e5e-4464-be99-0cd6c88fcbd7"/>
+			<Metadata name="Catalog.КИИ_ВалидаторыОтветаИИ.Attribute.КодВалидации" id="c2b4b11d-709b-4668-a603-492b649d51d9"/>
+			<Metadata name="Catalog.КИИ_ВалидаторыОтветаИИ.Attribute.Назначение" id="d6994051-7f08-43d2-92bc-fafecc5c9e88"/>
+		</Metadata>
+		<Metadata name="Catalog.КИИ_ВалидаторыОтветаИИ.Form.ФормаСписка" id="e7f8a9b0-c1d2-4e3f-a4b5-678901234502" configVersion="8f0bd86620d4cbef85c19ba0514029497121ef66"/>
+		<Metadata name="Catalog.КИИ_ВалидаторыОтветаИИ.Form.ФормаСписка.Form" id="e7f8a9b0-c1d2-4e3f-a4b5-678901234502.0" configVersion="37c20b516d64f4bb9759c24dcfb7a06a33f52923"/>
+		<Metadata name="Catalog.КИИ_ВалидаторыОтветаИИ.Form.ФормаЭлемента" id="e7f8a9b0-c1d2-4e3f-a4b5-678901234501" configVersion="79bd61a446e7f8a0999e5da1076835efd82ff818"/>
+		<Metadata name="Catalog.КИИ_ВалидаторыОтветаИИ.Form.ФормаЭлемента.Form" id="e7f8a9b0-c1d2-4e3f-a4b5-678901234501.0" configVersion="b7e2b8e348f96e5784051421b91abee7407a53f1"/>
+		<Metadata name="Catalog.КИИ_ВалидаторыОтветаИИ.ManagerModule" id="33a01380-a62c-4c71-be78-18ba6d50528c.3" configVersion="63134fc247de49530f694b0212ea3351eb8486bb"/>
+		<Metadata name="Catalog.КИИ_МоделиИИ" id="9db94fc6-bdb5-48ea-9c2e-fdac9920fbf6" configVersion="fc92828f8cc51fa1ef91006967a68b44c1ceaa3d">
+			<Metadata name="Catalog.КИИ_МоделиИИ.Attribute.АдресЗапроса" id="0845883e-3462-4e23-8e08-07b66a938697"/>
+			<Metadata name="Catalog.КИИ_МоделиИИ.Attribute.НаименованиеПровайдера" id="12d20cab-9003-4f03-b712-251a60a6fcbe"/>
+			<Metadata name="Catalog.КИИ_МоделиИИ.Attribute.ТипФорматаAPI" id="1fd43db3-1b29-4617-8b7e-8750fdf885ac"/>
+			<Metadata name="Catalog.КИИ_МоделиИИ.Attribute.ТипАвторизации" id="32df6154-4ff0-4482-936f-bb8adba09fc0"/>
+			<Metadata name="Catalog.КИИ_МоделиИИ.TabularSection.Заголовки.Attribute.Значение" id="3a0aa3fb-3711-498a-8878-32137091f4ab"/>
+			<Metadata name="Catalog.КИИ_МоделиИИ.Attribute.НаименованиеПолное" id="4ec24a31-1cae-4156-90e3-dc3a845db87c"/>
+			<Metadata name="Catalog.КИИ_МоделиИИ.TabularSection.Заголовки.Attribute.Ключ" id="4f35df6a-cc09-4e72-a0ef-2d78e0c483c5"/>
+			<Metadata name="Catalog.КИИ_МоделиИИ.Attribute.МаксимумТокенов" id="5601b723-0b2c-4f34-8650-f095dd52cb16"/>
+			<Metadata name="Catalog.КИИ_МоделиИИ.Attribute.Температура" id="574e0cc3-62b2-428e-a110-11a9f9437a61"/>
+			<Metadata name="Catalog.КИИ_МоделиИИ.Attribute.Адрес" id="78fd27a4-073c-469b-b6f3-c04ab2ba1090"/>
+			<Metadata name="Catalog.КИИ_МоделиИИ.Attribute.ИмяПоляТекста" id="80186209-6d53-47fb-b4e4-d8ae98d7d1ad"/>
+			<Metadata name="Catalog.КИИ_МоделиИИ.Attribute.ПоддерживаетConstrainedDecoding" id="98746a0d-a272-4ad5-8c1a-8e42d582f4e5"/>
+			<Metadata name="Catalog.КИИ_МоделиИИ.Attribute.Описание" id="a02c9560-1abe-407c-8c5a-6416910f517a"/>
+			<Metadata name="Catalog.КИИ_МоделиИИ.Attribute.ИспользоватьЗащищенноеСоединение" id="a16014cd-d74b-419d-867c-f8ab1e7e3097"/>
+			<Metadata name="Catalog.КИИ_МоделиИИ.Attribute.Таймаут" id="b0f62331-5420-4cd9-8919-3b7535be064f"/>
+			<Metadata name="Catalog.КИИ_МоделиИИ.TabularSection.Заголовки" id="bda728b5-d380-45e6-8aac-b991befb5653"/>
+		</Metadata>
+		<Metadata name="Catalog.КИИ_МоделиИИ.Form.ФормаСписка" id="9400f5b3-6636-4a8b-b8fc-98a8a3584991" configVersion="61bd5343e310391cd795bd8ee7ef4ce9617e8684"/>
+		<Metadata name="Catalog.КИИ_МоделиИИ.Form.ФормаСписка.Form" id="9400f5b3-6636-4a8b-b8fc-98a8a3584991.0" configVersion="7b1a359229d3e36f4a90ef057b89b99a9975e595"/>
+		<Metadata name="Catalog.КИИ_МоделиИИ.Form.ФормаЭлемента" id="1b13a08b-6d7b-4ed2-b2d2-77ea843f00be" configVersion="0ac317f832785941b553c22f2d070ef2fde9101f"/>
+		<Metadata name="Catalog.КИИ_МоделиИИ.Form.ФормаЭлемента.Form" id="1b13a08b-6d7b-4ed2-b2d2-77ea843f00be.0" configVersion="15fca5d79317ade3698b4e2f363a46748f6df883"/>
+		<Metadata name="Catalog.КИИ_МоделиИИ.Help" id="9db94fc6-bdb5-48ea-9c2e-fdac9920fbf6.1" configVersion="ffeefdc52b100add8e38d53d9fc8e66485a3b1b6"/>
+		<Metadata name="Catalog.КИИ_МоделиИИ.ManagerModule" id="9db94fc6-bdb5-48ea-9c2e-fdac9920fbf6.3" configVersion="42f22ecfe002d2655b8746bdb226272ea3eb5dcf"/>
+		<Metadata name="Catalog.КИИ_МоделиИИ.Template.ПредустановленныеМодели" id="7f6ae4b9-aebb-4bfc-890d-29e6d9c44391" configVersion="56f377c0a2d5e55f479d5ff594d05030a1841b99"/>
+		<Metadata name="Catalog.КИИ_МоделиИИ.Template.ПредустановленныеМодели.Template" id="7f6ae4b9-aebb-4bfc-890d-29e6d9c44391.0" configVersion="e26305e9e391aacef47a6351cef96337810fac1c"/>
+		<Metadata name="Catalog.КИИ_СхемыОтветаИИ" id="f5c0d5e4-2a99-45aa-a270-6d7f11da1c6f" configVersion="6ee6f3bfb26ec22f0bec0f9f167f78cac6e5f48f">
+			<Metadata name="Catalog.КИИ_СхемыОтветаИИ.TabularSection.Свойства.Attribute.Тип" id="066f8903-c1a5-4d8b-9685-00beaf8286da"/>
+			<Metadata name="Catalog.КИИ_СхемыОтветаИИ.TabularSection.Свойства.Attribute.ВложеннаяСхема" id="066f8903-c1a5-4d8b-9685-00beaf8286dc"/>
+			<Metadata name="Catalog.КИИ_СхемыОтветаИИ.Attribute.Описание" id="3fa09c4b-6393-4515-a9e3-ef10a2afe761"/>
+			<Metadata name="Catalog.КИИ_СхемыОтветаИИ.TabularSection.Свойства.Attribute.Описание" id="3fa09c4b-6393-4515-a9e3-ef10a2afe762"/>
+			<Metadata name="Catalog.КИИ_СхемыОтветаИИ.TabularSection.Свойства.Attribute.Обязательное" id="4314dcd3-99b8-44eb-8b37-a724219062f8"/>
+			<Metadata name="Catalog.КИИ_СхемыОтветаИИ.TabularSection.Свойства" id="95f95160-fb9a-4d7e-8046-d4baf591a9d5"/>
+			<Metadata name="Catalog.КИИ_СхемыОтветаИИ.TabularSection.Свойства.Attribute.Имя" id="9ccf9f3d-a4e1-47ed-a7ed-a354aed4f124"/>
+			<Metadata name="Catalog.КИИ_СхемыОтветаИИ.TabularSection.Свойства.Attribute.ПутьРодителя" id="9ccf9f3d-a4e1-47ed-a7ed-a354aed4f125"/>
+			<Metadata name="Catalog.КИИ_СхемыОтветаИИ.Attribute.ВалидаторОтвета" id="aabb1122-c3d4-4e5f-a678-901234567801"/>
+			<Metadata name="Catalog.КИИ_СхемыОтветаИИ.TabularSection.Свойства.Attribute.ВалидаторПоля" id="aabb1122-c3d4-4e5f-a678-901234567802"/>
+			<Metadata name="Catalog.КИИ_СхемыОтветаИИ.TabularSection.Свойства.Attribute.ФорматЗначения" id="d0fb4f13-84bc-4a7f-8483-99e291f32019"/>
+			<Metadata name="Catalog.КИИ_СхемыОтветаИИ.Attribute.ИмяСхемы" id="f917d3c5-2591-4ba4-96cf-289dce1eddd9"/>
+		</Metadata>
+		<Metadata name="Catalog.КИИ_СхемыОтветаИИ.Form.ФормаСписка" id="d4f5a6b7-c8d9-4e0f-b1a2-345678901bcd" configVersion="61baa7d23467a13ed4d6df51ae1334edb9f7e2ca"/>
+		<Metadata name="Catalog.КИИ_СхемыОтветаИИ.Form.ФормаСписка.Form" id="d4f5a6b7-c8d9-4e0f-b1a2-345678901bcd.0" configVersion="22b9cc9307f59962e6c76c28a054901bd24e601c"/>
+		<Metadata name="Catalog.КИИ_СхемыОтветаИИ.Form.ФормаЭлемента" id="c3e4f5a6-b7c8-4d9e-a0f1-234567890abc" configVersion="486487c0aae64d8d034505b20d9cd850dea5b988"/>
+		<Metadata name="Catalog.КИИ_СхемыОтветаИИ.Form.ФормаЭлемента.Form" id="c3e4f5a6-b7c8-4d9e-a0f1-234567890abc.0" configVersion="e16e8c397f89b95fdfae05813e80666a9366e618"/>
+		<Metadata name="Catalog.КИИ_СхемыОтветаИИ.ManagerModule" id="f5c0d5e4-2a99-45aa-a270-6d7f11da1c6f.3" configVersion="73ee9f0b58bc2cd33a774f4dc8507bad9ea59582"/>
+		<Metadata name="Catalog.КИИ_СхемыОтветаИИ.ObjectModule" id="f5c0d5e4-2a99-45aa-a270-6d7f11da1c6f.0" configVersion="76f21bec0c30aca8060c65387de215109bac3700"/>
+		<Metadata name="Catalog.КИИ_ЭкспертыИИ" id="92216d37-02a4-4619-b9ca-cf90fcf7f326" configVersion="1be7600728d50082dd70a3ce66dca6445bea55d1">
+			<Metadata name="Catalog.КИИ_ЭкспертыИИ.Attribute.Модель" id="49aab815-ca48-40e6-9595-a788941eee76"/>
+			<Metadata name="Catalog.КИИ_ЭкспертыИИ.Attribute.ОписаниеЭксперта" id="639b3e3f-d7e8-45b9-b203-7148b981da02"/>
+			<Metadata name="Catalog.КИИ_ЭкспертыИИ.Attribute.ЛимитПовторныхЗапросов" id="97a9896d-48d6-464a-b938-91fd585dac41"/>
+			<Metadata name="Catalog.КИИ_ЭкспертыИИ.Attribute.ПорогУверенностиКандидата" id="a1b2c3d4-e5f6-4789-a012-3456789abcde"/>
+			<Metadata name="Catalog.КИИ_ЭкспертыИИ.Attribute.СхемаОтвета" id="cbf88bca-0b73-42bc-8940-86c7fed7899c"/>
+		</Metadata>
+		<Metadata name="Catalog.КИИ_ЭкспертыИИ.Form.ФормаЭлемента" id="b1931dc0-b8e1-4044-8296-bc62fcc8de48" configVersion="29ed166cfad2abceb6b7a17ee08a97c00283129c"/>
+		<Metadata name="Catalog.КИИ_ЭкспертыИИ.Form.ФормаЭлемента.Form" id="b1931dc0-b8e1-4044-8296-bc62fcc8de48.0" configVersion="44882695c544900b4dbfbe8e8d3432bc3dad5c1c"/>
+		<Metadata name="Catalog.КИИ_ЭкспертыИИ.Help" id="92216d37-02a4-4619-b9ca-cf90fcf7f326.1" configVersion="43afdd9e6b7a4c646b28b08e4a485a7744a1cda8"/>
+		<Metadata name="ChartOfCharacteristicTypes.КИИ_НазначенияЭкспертов" id="f3efb9ba-bc10-48fa-b252-fd11eefb09c5" configVersion="071a04b23541a290a03c0ce807f8441e02a9bfe2"/>
+		<Metadata name="ChartOfCharacteristicTypes.КИИ_НазначенияЭкспертов.ObjectModule" id="f3efb9ba-bc10-48fa-b252-fd11eefb09c5.15" configVersion="421a1663ef27f8f70d0fa277e8fc46886485a644"/>
+		<Metadata name="ChartOfCharacteristicTypes.КИИ_НазначенияЭкспертов.Predefined" id="f3efb9ba-bc10-48fa-b252-fd11eefb09c5.7" configVersion="e09068eb47c0c91990a6562e129520d7dfa453c0"/>
+		<Metadata name="CommonModule.kh_АнализНазначенияПлатежа" id="e2535d94-5a7f-4796-a67f-b6f5b9390adf" configVersion="28e57f86a7d0a8b530f798c47f1bb77987516a16"/>
+		<Metadata name="CommonModule.kh_АнализНазначенияПлатежа.Module" id="e2535d94-5a7f-4796-a67f-b6f5b9390adf.0" configVersion="48617fdb1fbf104f125d7753f57bd28bbeb32ea4"/>
+		<Metadata name="CommonModule.kh_ЖурналБанковскихВыписок" id="a7f3c2e1-4b59-4d8a-9e6f-1c2d3e4f5a6b" configVersion="76e0c61b4d59ee9764017b39a3cff65623f929aa"/>
+		<Metadata name="CommonModule.kh_ЖурналБанковскихВыписок.Module" id="a7f3c2e1-4b59-4d8a-9e6f-1c2d3e4f5a6b.0" configVersion="e914e37b9f0d48149f06f717f7e244282caf59c6"/>
+		<Metadata name="CommonModule.kh_ИнтеграцияИИ" id="0e99a104-920e-4233-86ac-35bd01d36f45" configVersion="245fe9a4568066a1ddafa6d9ff36ff74cd60a76a"/>
+		<Metadata name="CommonModule.kh_ИнтеграцияИИ.Module" id="0e99a104-920e-4233-86ac-35bd01d36f45.0" configVersion="aac1fa721baef3873495bd6925200b993fbe4ad5"/>
+		<Metadata name="CommonModule.kh_ОбработкаПоступленияНаРасчетныйСчет" id="710cd4b6-8bc5-47d6-861d-cac5aff67eaa" configVersion="44ded3f96d5e9a86f0fcce30cd8d09d9c5730de4"/>
+		<Metadata name="CommonModule.kh_ОбработкаПоступленияНаРасчетныйСчет.Module" id="710cd4b6-8bc5-47d6-861d-cac5aff67eaa.0" configVersion="8d86be20d244003668b2749a49224bff38f26a4c"/>
+		<Metadata name="CommonModule.ДенежныеСредстваВстраиваниеУХ" id="b8669223-bf96-45e6-9e53-a501de35c10a" configVersion="552d6fd21fb0f1a433858bde8cb68ce99b32323d"/>
+		<Metadata name="CommonModule.КИИ_ВалидацияОтветаИИ" id="4db2428c-bafc-4bd9-a94b-082ca15b306b" configVersion="a211980fd49c42bd5980a2a1e2ac4f9aa61d6ad5"/>
+		<Metadata name="CommonModule.КИИ_ВалидацияОтветаИИ.Module" id="4db2428c-bafc-4bd9-a94b-082ca15b306b.0" configVersion="5f3723fb40a73631efac0a041f1f5f2dc0dcf510"/>
+		<Metadata name="CommonModule.КИИ_КоннекторИИ" id="c109385f-a0c2-43c9-814d-9df80902b79b" configVersion="386e72dd452d9916742d5da85d1db5f1bca3a2cd"/>
+		<Metadata name="CommonModule.КИИ_КоннекторИИ.Module" id="c109385f-a0c2-43c9-814d-9df80902b79b.0" configVersion="cc3c08b28c24ad5daee55d133b5ce18ba029ac72"/>
+		<Metadata name="CommonModule.КИИ_МаркдаунПарсерКлиентСервер" id="3d4ea4c1-1e67-44d6-983d-5878bdfd0133" configVersion="d46ca07b1286800ce8d8ceffe37ec23fd81fbb02"/>
+		<Metadata name="CommonModule.КИИ_МаркдаунПарсерКлиентСервер.Module" id="3d4ea4c1-1e67-44d6-983d-5878bdfd0133.0" configVersion="84571ae2701eadb043dc726476b2e403d7e3f9e4"/>
+		<Metadata name="CommonModule.КИИ_ЭкспертыИИ" id="4dadfc4c-7666-4d8b-9f82-0def97206a71" configVersion="6bc4804bb8f291f98d089a3292eb06f9e2259a39"/>
+		<Metadata name="CommonModule.КИИ_ЭкспертыИИ.Module" id="4dadfc4c-7666-4d8b-9f82-0def97206a71.0" configVersion="8a24b1d4da624a530f3889541e72c20f85ae3b24"/>
+		<Metadata name="CommonModule.КонтрольСборкиKazna_AI_Helper" id="6d46b5f6-760d-4f1e-b05e-8cf7a68c4dea" configVersion="6fdc11c70dabccc3f8bf6d0ee1c5379d410f4674"/>
+		<Metadata name="CommonModule.КонтрольСборкиKazna_AI_Helper.Module" id="6d46b5f6-760d-4f1e-b05e-8cf7a68c4dea.0" configVersion="df4669e5daa1c0391effbed97b672a8e3a53bfe8"/>
+		<Metadata name="CommonPicture.КИИ_КартинкаПодсистемы" id="c4ba66d1-52f1-4a01-b502-1966d4070559" configVersion="c8977a91773a34d7ada7b29b02fc37e92cf9df89"/>
+		<Metadata name="CommonPicture.КИИ_КартинкаПодсистемы.Picture" id="c4ba66d1-52f1-4a01-b502-1966d4070559.0" configVersion="435f94188eb0dd0ec7b0c88de0bacb213fac65b3"/>
+		<Metadata name="Configuration.Kazna_AI_Helper" id="9b8dbb56-1961-499a-976f-65e2b08acdc1" configVersion="7069f7ea643267aca8f08bb931a5e7b77eba2a0a"/>
+		<Metadata name="DataProcessor.КИИ_ТестИИ" id="d42ca800-f3ce-4d4d-a2e1-d85702a80243" configVersion="24e79336430e8b327c4d72fb2f6d35e23362ab74"/>
+		<Metadata name="DataProcessor.КИИ_ТестИИ.Form.Форма" id="8447382b-f13f-4eff-8d3e-d2edfa32ca4e" configVersion="28de3bebb06ab1f55ea069ceb5dda723d552bb8d"/>
+		<Metadata name="DataProcessor.КИИ_ТестИИ.Form.Форма.Form" id="8447382b-f13f-4eff-8d3e-d2edfa32ca4e.0" configVersion="bd1d52c64bd25ea9077c626698e7b8c7b94f4ee8"/>
+		<Metadata name="DataProcessor.КИИ_ТестИИ.Help" id="d42ca800-f3ce-4d4d-a2e1-d85702a80243.1" configVersion="0736d025a21f83c09e25a8f7321f059d5e9d15da"/>
+		<Metadata name="DataProcessor.КИИ_ТестИИ.Template.ШаблонДиалога" id="0605d1da-92cc-4046-9d01-3d7d8450d27e" configVersion="3714d4f96c2566ff2e4915572ec3bafad69cde1b"/>
+		<Metadata name="DataProcessor.КИИ_ТестИИ.Template.ШаблонДиалога.Template" id="0605d1da-92cc-4046-9d01-3d7d8450d27e.0" configVersion="5fe86291a5ff6c6d4b552b50b77f4210394b39bc"/>
+		<Metadata name="DataProcessor.КИИ_ТестМаркдаунПарсера" id="9409ca95-8bf0-4aa3-a673-0ae1e4da3c73" configVersion="d0e650d7233a69e579188fa2397b8926f9de7c98"/>
+		<Metadata name="DataProcessor.КИИ_ТестМаркдаунПарсера.Form.Форма" id="bcec29fc-f42d-4ca9-a733-f713894158e9" configVersion="f0584622e25f75f3b3d39b6b8a5805f59e8312f5"/>
+		<Metadata name="DataProcessor.КИИ_ТестМаркдаунПарсера.Form.Форма.Form" id="bcec29fc-f42d-4ca9-a733-f713894158e9.0" configVersion="d9bb1f8657f1f5f1199f6f23a0a7cb4f97f7945b"/>
+		<Metadata name="DataProcessor.КИИ_ТестМаркдаунПарсера.Help" id="9409ca95-8bf0-4aa3-a673-0ae1e4da3c73.1" configVersion="470e7f08e06748670afbca817f2bd85daa2bd7d4"/>
+		<Metadata name="DataProcessor.КИИ_ТестМаркдаунПарсера.Template.ШаблонHTML" id="a63c1f63-c359-4482-aa63-785718f098ad" configVersion="be9148b7ac282a2fb3ae9a4c49cd9dc9ea4d3fe8"/>
+		<Metadata name="DataProcessor.КИИ_ТестМаркдаунПарсера.Template.ШаблонHTML.Template" id="a63c1f63-c359-4482-aa63-785718f098ad.0" configVersion="038db02f32dae76402d96080499392bd0dd4f320"/>
+		<Metadata name="Document.ЗаявкаНаРасходованиеДенежныхСредств" id="2c149a03-f729-49d9-beaa-464d7b18e1ab" configVersion="069e26f5f74e08d808b75c89b12ffaae1a7bb942"/>
+		<Metadata name="Document.ПоступлениеНаРасчетныйСчет" id="1144113b-93d6-41b9-a2fc-7a312c018017" configVersion="6cd0d8e8b071cee18297f00d79bef45cfe262c82">
+			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.kh_ТребуетсяРучнаяПроверкаИИ" id="f94f9a31-c284-4b3d-99fc-e21d80004179"/>
+		</Metadata>
+		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента" id="fd5ae175-046d-4b12-afea-59938a41feb8" configVersion="aa2fde4ff08de1d5cbb8782cc48ca80601437588"/>
+		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента.Form" id="fd5ae175-046d-4b12-afea-59938a41feb8.0" configVersion="3ad637709e27839a66a528d9c407c9555f112ac1"/>
+		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.ObjectModule" id="1144113b-93d6-41b9-a2fc-7a312c018017.0" configVersion="87b17f7e6b4ef082bbf292687c73f3eefc25e840"/>
+		<Metadata name="DocumentJournal.Деньги" id="ea534782-86c2-438c-a5c6-ab9fb67e81fd" configVersion="9e0e2b25c65444d03badcd0ebf563abb6eed71a2"/>
+		<Metadata name="DocumentJournal.Деньги.Form.БанковскиеВыписки" id="b3e4f5a6-c7d8-9012-abcd-ef2345678901" configVersion="b19e565f2f2235ee2ba1f04875f39fb54e2a592e"/>
+		<Metadata name="DocumentJournal.Деньги.Form.БанковскиеВыписки.Form" id="b3e4f5a6-c7d8-9012-abcd-ef2345678901.0" configVersion="8284153ed3b5e26e5d6b1f4525ced130ccbe7157"/>
+		<Metadata name="Enum.КИИ_КлассыРезультатаВалидацииОтветаИИ" id="b49a0bf2-f4d2-47f4-bb86-a095e995aff4" configVersion="010fee99de816b4c73b682629b8eb50bada0a13b">
+			<Metadata name="Enum.КИИ_КлассыРезультатаВалидацииОтветаИИ.EnumValue.ПройденаВалидация" id="189f3486-8561-4e1e-8656-03ebac9f7b89"/>
+			<Metadata name="Enum.КИИ_КлассыРезультатаВалидацииОтветаИИ.EnumValue.СтруктурнаяОшибка" id="5f9ae165-05f9-43b0-b0c2-aec082438529"/>
+			<Metadata name="Enum.КИИ_КлассыРезультатаВалидацииОтветаИИ.EnumValue.НесовпадениеФормата" id="74ad706e-e6c1-4f5a-bb53-9a5ba7ae5c73"/>
+			<Metadata name="Enum.КИИ_КлассыРезультатаВалидацииОтветаИИ.EnumValue.ВнешняяСсылка" id="7f21b655-a288-491b-be87-5db9fde2155e"/>
+			<Metadata name="Enum.КИИ_КлассыРезультатаВалидацииОтветаИИ.EnumValue.ОтсутствующаяИнформация" id="9cb88a60-ecf9-4fe9-a8c6-291a5972798d"/>
+			<Metadata name="Enum.КИИ_КлассыРезультатаВалидацииОтветаИИ.EnumValue.НесовпадениеВычислений" id="b5d575c5-9b98-4588-bc85-1aae9c18d969"/>
+			<Metadata name="Enum.КИИ_КлассыРезультатаВалидацииОтветаИИ.EnumValue.ПротиворечивыеДанные" id="c63dc4a6-145d-4615-b7a7-e21f043e35aa"/>
+			<Metadata name="Enum.КИИ_КлассыРезультатаВалидацииОтветаИИ.EnumValue.ОшибкаВалидатора" id="e8f70b15-2c4a-4b7e-9a51-3d4c5b6e7f80"/>
+		</Metadata>
+		<Metadata name="Enum.КИИ_НазначенияВалидатораОтветаИИ" id="903e1b35-872f-401b-85bb-885e7d9db041" configVersion="a21d9b15e25f4704d5fd2b16576bdafe8a5764e0">
+			<Metadata name="Enum.КИИ_НазначенияВалидатораОтветаИИ.EnumValue.ВесьОтвет" id="30863a17-442b-47a4-9a10-71213d69b424"/>
+			<Metadata name="Enum.КИИ_НазначенияВалидатораОтветаИИ.EnumValue.Поле" id="ba4df1dc-0ace-4068-9890-192f90d3f497"/>
+			<Metadata name="Enum.КИИ_НазначенияВалидатораОтветаИИ.EnumValue.Универсальный" id="dfd34301-d5c6-4297-b704-2844fc316169"/>
+		</Metadata>
+		<Metadata name="Enum.КИИ_ТипыАвторизации" id="4bcdd79f-e0cb-4cbb-a00f-e2b558a30937" configVersion="555e7cdebff3444af4adb6965ae071c9f10207bd">
+			<Metadata name="Enum.КИИ_ТипыАвторизации.EnumValue.OAuth2ClientCredentials" id="4710b232-2842-44bf-94e4-20ad6affb2d5"/>
+			<Metadata name="Enum.КИИ_ТипыАвторизации.EnumValue.XApiKey" id="49539956-3db7-4344-9e4f-2e4bb19c5c8d"/>
+			<Metadata name="Enum.КИИ_ТипыАвторизации.EnumValue.Bearer" id="a419bfac-9b98-42f9-97f4-eff9686542be"/>
+			<Metadata name="Enum.КИИ_ТипыАвторизации.EnumValue.ApiKey" id="d3eb649b-0494-46b6-bacc-da2309595e6f"/>
+		</Metadata>
+		<Metadata name="Enum.КИИ_ТипыПолейСхемыОтветаИИ" id="bc3d74c3-f01a-482f-8b93-cc81665ce0a1" configVersion="93b0795ba6632b7de0db36c3460e120f7033cc08">
+			<Metadata name="Enum.КИИ_ТипыПолейСхемыОтветаИИ.EnumValue.Число" id="02ac4978-404f-4419-89ce-07c3735337ae"/>
+			<Metadata name="Enum.КИИ_ТипыПолейСхемыОтветаИИ.EnumValue.Целое" id="097de340-a34b-4d4f-a9c4-051fa8b68aae"/>
+			<Metadata name="Enum.КИИ_ТипыПолейСхемыОтветаИИ.EnumValue.Массив" id="255060de-3f11-49eb-b079-f6e5cfdb9796"/>
+			<Metadata name="Enum.КИИ_ТипыПолейСхемыОтветаИИ.EnumValue.Булево" id="5b0c6ca9-e815-425a-99c2-f5ea3f7ffd7f"/>
+			<Metadata name="Enum.КИИ_ТипыПолейСхемыОтветаИИ.EnumValue.Объект" id="adabbc3f-30fb-4c0f-8cea-f4e9183c4274"/>
+			<Metadata name="Enum.КИИ_ТипыПолейСхемыОтветаИИ.EnumValue.Строка" id="c2d3a6f6-e245-47dc-8af5-cf9a9b047f37"/>
+		</Metadata>
+		<Metadata name="Enum.КИИ_ТипыФорматовAPI" id="19265893-598d-46aa-afed-70494d3e07f0" configVersion="9414db83d31c3292ce7ae4e20d01daa2c1865cd5">
+			<Metadata name="Enum.КИИ_ТипыФорматовAPI.EnumValue.GigaChat" id="2433ee4a-cec3-41e4-94d0-531118019fff"/>
+			<Metadata name="Enum.КИИ_ТипыФорматовAPI.EnumValue.OpenAI_Compatible" id="2f422719-6b6d-4e95-a88b-dae14309c2a8"/>
+			<Metadata name="Enum.КИИ_ТипыФорматовAPI.EnumValue.Anthropic" id="818759c4-f7ce-4619-83c4-225f267afc6a"/>
+			<Metadata name="Enum.КИИ_ТипыФорматовAPI.EnumValue.Google" id="a6455a93-04ed-4e64-8915-2917eb7f44c2"/>
+			<Metadata name="Enum.КИИ_ТипыФорматовAPI.EnumValue.Yandex" id="c73de89e-3825-4868-ad0c-a7757e27769b"/>
+		</Metadata>
+		<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ" id="bb2e7d81-1a24-4829-867b-082c354b7822" configVersion="99250c70e1aaf3ae1332e68281843c329251ca60">
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Attribute.ИсторияСообщенийJSON" id="0c9681d7-bbd1-4454-9444-2958570a97c2"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Attribute.ТекстОшибки" id="2373fcef-ecd4-40de-b7dc-f377dceb47a1"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Attribute.ТипОбъекта" id="43f63d8e-ba88-4a93-8d6f-8a699a2cefc6"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Attribute.ПользовательскийПромпт" id="4e8c329c-6cb0-45ea-aeef-46b9563db85a"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Resource.ВремяОтветаСекунд" id="69bfc8ad-c2a9-420e-9787-646b92f2b630"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Attribute.ПричинаЗавершения" id="6ccbe4ff-1d39-4fd5-84e6-190d20af7c47"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Dimension.Идентификатор" id="6d3e6c79-f850-4d0f-b2e2-110766a5f995"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Attribute.СистемныйПромпт" id="6d7fc10c-21f5-444b-a828-f4ef20e371da"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Attribute.МодельОтвета" id="709acdcd-6b3e-40da-8566-5ef0e6d4d438"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Attribute.IDЗапроса" id="73937ca5-67c5-4b22-9313-31a30ba2b408"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Dimension.Документ" id="7a4f2c8b-1e6d-4b5a-9c3f-2d8e7f0a1b36"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Resource.ВыходныеТокены" id="96401990-ee58-4844-95f2-4b4bb05758ae"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Resource.НомерПовтора" id="9c5b8e1d-2f7a-4d3e-b6c1-1e8a9f0b3d45"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Attribute.ХэшМодели" id="9f3c175f-c574-4e6a-8377-1471ff1d0c4f"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Attribute.Модель" id="a6a4a21e-9070-4e12-9e2a-2ed455ef1b3a"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Dimension.УниверсальнаяДатаВМиллисекундах" id="a87aa4a0-d2e9-49b3-9da6-29bda0d1b114"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Resource.СтоимостьОтвета" id="b4da07ef-526d-453d-a389-96cf4ce873cd"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Attribute.ТекстОтвета" id="ba5f17ca-bc3e-4411-b67c-c690cc0c9893"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Attribute.ЭтоОшибка" id="bc4f0237-71e3-4913-8379-9588af01d1fb"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Resource.ВыходныеТокеныВКеше" id="c070576e-3009-4629-aef4-f510711232bf"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Attribute.ДатаСоздания" id="d7ba37f2-32be-47a2-982c-2ab991d292b7"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Resource.ВходныеТокены" id="d9a3c6a9-057e-4ed1-8263-5ea4ba98a264"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Attribute.ДатаЗапроса" id="dd379cda-c63d-4745-b840-7383fd684dd4"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Resource.ВсегоТокенов" id="de89d395-6721-4a70-a3fc-fc6348abafed"/>
+			<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Attribute.ТарифСервиса" id="f584e9ec-4ea8-48f5-8f25-d7a5ebce9629"/>
+		</Metadata>
+		<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Form.ФормаЗаписи" id="22e26a89-cde0-4c1c-8cbe-57e762aaa2a8" configVersion="15360fe6dcb7079ea8f28dd3a864b426758645be"/>
+		<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Form.ФормаЗаписи.Form" id="22e26a89-cde0-4c1c-8cbe-57e762aaa2a8.0" configVersion="f20b5b449653dc0d2074b436bd0aba7f93bf6dff"/>
+		<Metadata name="InformationRegister.КИИ_ЛогЗапросовИИ.Help" id="bb2e7d81-1a24-4829-867b-082c354b7822.0" configVersion="516604133ae0a68ffdae8f7c16c43480e7a322b5"/>
+		<Metadata name="InformationRegister.КИИ_НазначенияЭкспертов" id="32677436-bb33-49b1-911e-7ca8eac5ca2d" configVersion="7238af7194e6ac734b6849796f7287a17e04e061">
+			<Metadata name="InformationRegister.КИИ_НазначенияЭкспертов.Attribute.Примечание" id="2a1dfe37-47ab-498d-b753-9774f2672635"/>
+			<Metadata name="InformationRegister.КИИ_НазначенияЭкспертов.Resource.Эксперт" id="aa94c706-ae21-4dc0-b391-53879052ba0f"/>
+			<Metadata name="InformationRegister.КИИ_НазначенияЭкспертов.Dimension.Назначение" id="d1a205d2-53eb-416b-bdb9-7895b196f037"/>
+		</Metadata>
+		<Metadata name="InformationRegister.КИИ_НазначенияЭкспертов.RecordSetModule" id="32677436-bb33-49b1-911e-7ca8eac5ca2d.1" configVersion="78d9534d5f489ed6a03fb731f8f9c45cf92e0df9"/>
+		<Metadata name="Language.Русский" id="6392b4d0-9d4f-4d50-9150-110d6a2a8944" configVersion="a418b0520ca763b782616c02999ca55a76917a6c"/>
+		<Metadata name="Role.kh_ОсновнаяРоль" id="e0fcc3c2-7897-40d1-a9bb-8091392393de" configVersion="19ec49a27f356f9817567b6b9ecca6a51bcd97f0"/>
+		<Metadata name="Role.КИИ_БазовыеПрава" id="50161a8a-e4d4-4ef2-9257-082aefbc297b" configVersion="9ba0efe58ca484c4b5206719fbcdd5213bb18e33"/>
+		<Metadata name="Role.КИИ_БазовыеПрава.Rights" id="50161a8a-e4d4-4ef2-9257-082aefbc297b.0" configVersion="d6cb704b09143f10c62a8b28626d9b5eee024d43"/>
+		<Metadata name="Role.КИИ_ПолныеПрава" id="a3b824f7-f2be-4e53-a4a1-fa18ca43bd8c" configVersion="dab340be83e9f86ebe589973e8f626a805a66ff8"/>
+		<Metadata name="Role.КИИ_ПолныеПрава.Rights" id="a3b824f7-f2be-4e53-a4a1-fa18ca43bd8c.0" configVersion="f115868e2ab6053201de86954c71e3543302aecd"/>
+		<Metadata name="Subsystem.kh_ЗаполнениеВыписки" id="e86fcdde-5be6-473d-abd6-2f5a3dd3b65b" configVersion="4f020f90e735b9df44e2a107603cd036cc95d578"/>
+		<Metadata name="Subsystem.КИИ_Коннектор" id="b43e9caa-ecd3-4fdc-8394-f3c94f0df0e2" configVersion="866012c62b351e82d6712ddc966bb0369cfe9323"/>
+		<Metadata name="Subsystem.КИИ_Коннектор.Help" id="b43e9caa-ecd3-4fdc-8394-f3c94f0df0e2.0" configVersion="caccd93c6ed2493020ed5073555af7edbbaae7f2"/>
+		<Metadata name="Subsystem.КИИ_Коннектор.Subsystem.kh_Валидация" id="3b75f8eb-b680-4516-9d30-0637bdc030e0" configVersion="846e976a622a063a21a1be2bd1bc5212ff33cc31"/>
+		<Metadata name="Subsystem.КИИ_КоннекторСлужебная" id="aa30a2c2-54e5-4001-ab21-1bb24b39d10e" configVersion="1825e68b436c008910cfec181d4e668019004911"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

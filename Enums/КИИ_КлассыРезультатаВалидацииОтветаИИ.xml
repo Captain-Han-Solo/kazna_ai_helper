@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Enum uuid="b49a0bf2-f4d2-47f4-bb86-a095e995aff4">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.КИИ_КлассыРезультатаВалидацииОтветаИИ" category="Ref">
+				<xr:TypeId>ef06e00f-aa4f-419e-95ae-843c37e9ba6f</xr:TypeId>
+				<xr:ValueId>bb7c8a9d-78ab-4dfe-ac10-f619441e42e5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.КИИ_КлассыРезультатаВалидацииОтветаИИ" category="Manager">
+				<xr:TypeId>f62b4d55-d43f-431d-9d62-50152def6c0f</xr:TypeId>
+				<xr:ValueId>f2426cfd-d0dd-418c-a03a-50d6395771d2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.КИИ_КлассыРезультатаВалидацииОтветаИИ" category="List">
+				<xr:TypeId>40a8320b-8a99-498d-a15f-fd0ceac06cc3</xr:TypeId>
+				<xr:ValueId>74b939b6-02c0-4e35-be2d-9ccb2a9c3b98</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>КИИ_КлассыРезультатаВалидацииОтветаИИ</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Классы результата валидации ответа ИИ</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="189f3486-8561-4e1e-8656-03ebac9f7b89">
+				<Properties>
+					<Name>ПройденаВалидация</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Пройдена валидация</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="b5d575c5-9b98-4588-bc85-1aae9c18d969">
+				<Properties>
+					<Name>НесовпадениеВычислений</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Несовпадение вычислений</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="74ad706e-e6c1-4f5a-bb53-9a5ba7ae5c73">
+				<Properties>
+					<Name>НесовпадениеФормата</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Несовпадение формата</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="5f9ae165-05f9-43b0-b0c2-aec082438529">
+				<Properties>
+					<Name>СтруктурнаяОшибка</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Структурная ошибка</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="9cb88a60-ecf9-4fe9-a8c6-291a5972798d">
+				<Properties>
+					<Name>ОтсутствующаяИнформация</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Отсутствующая информация</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="7f21b655-a288-491b-be87-5db9fde2155e">
+				<Properties>
+					<Name>ВнешняяСсылка</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Внешняя ссылка</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="c63dc4a6-145d-4615-b7a7-e21f043e35aa">
+				<Properties>
+					<Name>ПротиворечивыеДанные</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Противоречивые данные</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="e8f70b15-2c4a-4b7e-9a51-3d4c5b6e7f80">
+				<Properties>
+					<Name>ОшибкаВалидатора</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ошибка валидатора</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment>Ошибка выполнения доверенного кода валидатора. Требует ручной проверки человеком, без повторного запроса к модели.</Comment>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

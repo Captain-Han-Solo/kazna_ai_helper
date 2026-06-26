@@ -1,0 +1,33 @@
+# 1C build artefacts
+*.cfe
+*.cf
+*.epf
+*.erf
+*.dt
+
+# Binary dumps
+1Cv8.1CD
+1Cv8.cl
+*.cd
+*.cgr
+
+# Logs
+*.log
+*.log.*
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary build directories
+bin/
+obj/
+dist/
+build/
