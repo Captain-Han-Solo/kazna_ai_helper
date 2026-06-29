@@ -4,7 +4,7 @@
 
 Лицензия: MIT. Платформа: 1С:Предприятие 8.3.27.
 
-Публикация на инфостарт https://infostart.ru/1c/articles/2725511/   
+Публикация и обсуждение на Инфостарт: https://infostart.ru/1c/articles/2725511/   
 <p align="center">
   <img src="assets/logo.svg" alt="AI-помощник казначейства" width="200">
 </p>
