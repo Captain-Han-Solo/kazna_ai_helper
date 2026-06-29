@@ -5,6 +5,11 @@
 Лицензия: MIT. Платформа: 1С:Предприятие 8.3.27.
 
 Публикация на инфостарт https://infostart.ru/1c/articles/2725511/   
+<p align="center">
+  <a href="https://infostart.ru/1c/articles/2725511/">
+    <img src="logo.svg" alt="AI-помощник казначейства" width="200">
+  </a>
+</p>
 
 ## О проекте
 
